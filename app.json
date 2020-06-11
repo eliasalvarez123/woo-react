@@ -1,0 +1,17 @@
+{
+  "name": "react-native-woocommerce-store",
+  "displayName": "react-native-woocommerce-store",
+  "expo": {
+    "name": "react-native-woocommerce-store",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
